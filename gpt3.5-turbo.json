@@ -1,0 +1,190 @@
+[
+  {
+    "hurricane_storm_name": "Agatha",
+    "date_start": "1975-06-02",
+    "date_end": "1975-06-05",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Acapulco",
+      "Zihuatanejo",
+      "Tres Marias Islands",
+      "Polynesian Diakan",
+      "Pago Pago",
+      "Terminal Island, California",
+      "San Clemente Island"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Bridget",
+    "date_start": "1975-06-28",
+    "date_end": "1975-07-03",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Hurricane Carlotta",
+    "date_start": "1975-07-02",
+    "date_end": "1975-07-11",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Denise",
+    "date_start": "1975-07-05",
+    "date_end": "1975-07-15",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Mexico"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Eleanor",
+    "date_start": "1975-07-10",
+    "date_end": "1975-07-12",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Acapulco",
+      "Manzanillo"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Francene",
+    "date_start": "1975-07-27",
+    "date_end": "1975-07-30",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Georgette",
+    "date_start": "1975-08-11",
+    "date_end": "1975-08-14",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Hilary",
+    "date_start": "1975-08-13",
+    "date_end": "1975-08-17",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "N/A",
+    "date_start": "N/A",
+    "date_end": "N/A",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "No significant impact"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Hurricane Ilsa",
+    "date_start": "1975-08-18",
+    "date_end": "1975-08-26",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Jewel",
+    "date_start": "1975-08-24",
+    "date_end": "1975-08-31",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Depression Jewel",
+    "date_start": "1975-08-31",
+    "date_end": "1975-08-31",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Katrina",
+    "date_start": "2005-08-29",
+    "date_end": "2005-09-07",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Socorro Island"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Unnamed hurricane",
+    "date_start": "1975-08-31",
+    "date_end": "1975-09-05",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Hawaii",
+      "Alaska",
+      "British Columbia",
+      "Montana"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Lily",
+    "date_start": "1975-09-16",
+    "date_end": "1975-09-21",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": [
+      "Acapulco",
+      "Socorro Island"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Monica",
+    "date_start": "1975-09-28",
+    "date_end": "1975-10-02",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Nanette",
+    "date_start": "1975-09-28",
+    "date_end": "1975-10-4",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Hurricane Olivia",
+    "date_start": "1975-10-22",
+    "date_end": "1975-10-25",
+    "number_of_deaths": 30,
+    "list_of_areas_affected": [
+      "Mexico"
+    ]
+  },
+  {
+    "hurricane_storm_name": "Tropical Storm Priscilla",
+    "date_start": "1975-11-02",
+    "date_end": "1975-11-07",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Cyclone Four",
+    "date_start": "1975-07-02",
+    "date_end": "1975-07-03",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Cyclone Thirteen",
+    "date_start": "1975-09-12",
+    "date_end": "1975-09-15",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Cyclone Seventeen",
+    "date_start": "1975-10-16",
+    "date_end": "1975-10-17",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  },
+  {
+    "hurricane_storm_name": "Tropical Cyclone Nineteen",
+    "date_start": "1975-11-01",
+    "date_end": "1975-11-02",
+    "number_of_deaths": 0,
+    "list_of_areas_affected": []
+  }
+]

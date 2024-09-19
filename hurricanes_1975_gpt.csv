@@ -1,0 +1,24 @@
+hurricane_storm_name,date_start,date_end,number_of_deaths,list_of_areas_affected
+Agatha,1975-06-02,1975-06-05,0,"['Acapulco', 'Zihuatanejo', 'Tres Marias Islands', 'Polynesian Diakan', 'Pago Pago', 'Terminal Island, California', 'San Clemente Island']"
+Tropical Storm Bridget,1975-06-28,1975-07-03,0,[]
+Hurricane Carlotta,1975-07-02,1975-07-11,0,[]
+Denise,1975-07-05,1975-07-15,0,['Mexico']
+Tropical Storm Eleanor,1975-07-10,1975-07-12,0,"['Acapulco', 'Manzanillo']"
+Tropical Storm Francene,1975-07-27,1975-07-30,0,[]
+Tropical Storm Georgette,1975-08-11,1975-08-14,0,[]
+Hilary,1975-08-13,1975-08-17,0,[]
+N/A,N/A,N/A,0,['No significant impact']
+Hurricane Ilsa,1975-08-18,1975-08-26,0,[]
+Jewel,1975-08-24,1975-08-31,0,[]
+Tropical Depression Jewel,1975-08-31,1975-08-31,0,[]
+Katrina,2005-08-29,2005-09-07,0,['Socorro Island']
+Unnamed hurricane,1975-08-31,1975-09-05,0,"['Hawaii', 'Alaska', 'British Columbia', 'Montana']"
+Lily,1975-09-16,1975-09-21,0,"['Acapulco', 'Socorro Island']"
+Tropical Storm Monica,1975-09-28,1975-10-02,0,[]
+Tropical Storm Nanette,1975-09-28,1975-10-4,0,[]
+Hurricane Olivia,1975-10-22,1975-10-25,30,['Mexico']
+Tropical Storm Priscilla,1975-11-02,1975-11-07,0,[]
+Tropical Cyclone Four,1975-07-02,1975-07-03,0,[]
+Tropical Cyclone Thirteen,1975-09-12,1975-09-15,0,[]
+Tropical Cyclone Seventeen,1975-10-16,1975-10-17,0,[]
+Tropical Cyclone Nineteen,1975-11-01,1975-11-02,0,[]

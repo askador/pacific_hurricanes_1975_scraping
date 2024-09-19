@@ -1,0 +1,22 @@
+hurricane_storm_name,date_start,date_end,number_of_deaths,list_of_areas_affected
+Hurricane Agatha,1975-06-02,1975-06-05,,['Tres Marias Islands']
+Tropical Storm Bridget,1975-06-28,1975-07-03,0.0,[]
+Hurricane Carlotta,1975-07-02,1975-07-11,,['Acapulco']
+Hurricane Denise,1975-07-05,1975-07-15,0.0,['Mexico']
+Tropical Storm Eleanor,1975-07-10,1975-07-12,4.0,['Manzanillo']
+Tropical Storm Francene,1975-07-27,1975-07-30,4.0,['Northwest']
+Tropical Storm Georgette,1975-08-11,1975-08-14,,
+Tropical Storm Hilary,1975-08-13,1975-08-17,,
+Hurricane Ilsa,1975-08-18,1975-08-26,,"['Gulf of Tehuantepec', 'Pacific Ocean']"
+Jewel,1975-08-24,1975-08-31,,['Acapulco']
+Hurricane Katrina,1975-08-29,1975-09-07,,['Socorro Island']
+Unnamed Hurricane,1975-08-31,1975-09-05,,"['Hawaii', 'Kauai', 'Alaska', 'British Columbia', 'Montana']"
+Lily,1975-09-16,1975-09-21,0.0,['Socorro Island']
+Tropical Storm Monica,1975-09-28,1975-10-02,0.0,[]
+Tropical Storm Nanette,1975-09-28,1975-10-04,,['null']
+Olivia,1975-10-22,1975-10-25,30.0,['Mazatlán']
+Priscilla,1975-11-02,1975-11-07,,['Clarion Island']
+Tropical Cyclone Four,1975-07-02,1975-07-03,,
+Tropical Cyclone Thirteen,1975-09-12,1975-09-16,,
+Tropical Cyclone Seventeen,1975-10-16,1975-10-17,,
+Tropical Cyclone Nineteen,1975-11-01,1975-11-02,,
